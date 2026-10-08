@@ -1,0 +1,7 @@
+ustomer: Carla Marie Kuan
+Quantity: 5
+Unit price: 35.75
+Total: 178.75
+Amount remaining after dividing by 10: 8.75
+Is the total over 100? true
+Is the customer a member? true
