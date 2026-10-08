@@ -11,4 +11,4 @@ checking the remaining amount after dividing by 10, and checking if the total is
 How to Run
 Run the program using:
 
-dartpad
+dart run
